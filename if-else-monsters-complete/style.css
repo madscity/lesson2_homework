@@ -1,0 +1,13 @@
+.main-pic{
+    width:200px;
+    height:auto;
+}
+.container{
+    text-align: center;
+}
+
+.color-change-2x {
+	-webkit-animation: color-change-2x 2s linear infinite alternate both;
+	-moz-animation: color-change-2x 2s linear infinite alternate both;
+	animation: color-change-2x 2s linear infinite alternate both;
+}
